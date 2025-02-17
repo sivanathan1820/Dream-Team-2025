@@ -1,0 +1,52 @@
+[
+    {
+        "uuid": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "team_id": "kkr",
+        "team_name": "Kolkata Knight Riders"
+    },
+    {
+        "uuid": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "team_id": "rcb",
+        "team_name": "Royal Challengers Bengaluru"
+    },
+    {
+        "uuid": "862b47bd-2389-4e15-a027-ef62c5276df0",
+        "team_id": "srh",
+        "team_name": "Sunrisers Hyderabad"
+    },
+    {
+        "uuid": "3b377704-0ee4-43f2-b81b-77f63769a611",
+        "team_id": "rr",
+        "team_name": "Rajasthan Royals"
+    },
+    {
+        "uuid": "e5777b50-6cbe-46af-b377-020e3fd43bd9",
+        "team_id": "csk",
+        "team_name": "Chennai Super Kings"
+    },
+    {
+        "uuid": "827ad2e4-cb28-4edd-b373-a61fdf886df4",
+        "team_id": "mi",
+        "team_name": "Mumbai Indians"
+    },
+    {
+        "uuid": "c35c1b44-d569-4af5-91dc-14d55e7e72dc",
+        "team_id": "dc",
+        "team_name": "Delhi Capitals"
+    },
+    {
+        "uuid": "9ff5ba48-185f-4956-93e1-3fb54fd898fa",
+        "team_id": "lsg",
+        "team_name": "Lucknow Super Giants"
+    },
+    {
+        "uuid": "e78635ea-56b8-4321-bd75-c0275a1c441f",
+        "team_id": "gt",
+        "team_name": "Gujarat Titans"
+    },
+    {
+        "uuid": "42be68a2-852c-4094-94eb-8865fd887f6c",
+        "team_id": "pk",
+        "team_name": "Punjab Kings"
+    }
+]
