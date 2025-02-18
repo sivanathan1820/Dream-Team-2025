@@ -1,0 +1,432 @@
+[
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Rinku Singh",
+        "role": "Batter",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Manish Pandey",
+        "role": "Batter",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Rovman Powell",
+        "role": "Batter",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Ajinkya Rahane",
+        "role": "Batter",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Angkrish Raghuvanshi",
+        "role": "Batter",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Luvnith Sisodia",
+        "role": "Wicket Keeper",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Quinton De Kock",
+        "role": "Wicket Keeper",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Rahmanullah Gurbaz",
+        "role": "Wicket Keeper",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Andre Russell",
+        "role": "All Rounder",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Sunil Narine",
+        "role": "All Rounder",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Anukul Roy",
+        "role": "All Rounder",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Moeen Ali",
+        "role": "All Rounder",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Venkatesh Iyer",
+        "role": "All Rounder",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Ramandeep Singh",
+        "role": "All Rounder",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Harshit Rana",
+        "role": "Bowler",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Varun Chakaravarthy",
+        "role": "Bowler",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Anrich Nortje",
+        "role": "Bowler",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Spencer Johnson",
+        "role": "Bowler",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Vaibhav Arora",
+        "role": "Bowler",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Umran Malik",
+        "role": "Bowler",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "name": "Mayank Markande",
+        "role": "Bowler",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Rajat Patidar (c)",
+        "role": "Batter",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Liam Livingstone",
+        "role": "Batter",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Virat Kohli",
+        "role": "Batter",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Devdutt Padikkal",
+        "role": "Batter",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Swastik Chhikara",
+        "role": "Batter",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Jitesh Sharma",
+        "role": "Wicket Keeper",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Phil Salt",
+        "role": "Wicket Keeper",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Swapnil Singh",
+        "role": "All Rounder",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Manoj Bhandage",
+        "role": "All Rounder",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Krunal Pandya",
+        "role": "All Rounder",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Tim David",
+        "role": "All Rounder",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Jacob Bethell",
+        "role": "All Rounder",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Bhuvneshwar Kumar",
+        "role": "Bowler",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Rasikh Salam",
+        "role": "Bowler",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Suyash Sharma",
+        "role": "Bowler",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Mohit Rathee",
+        "role": "Bowler",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Abhinandan Singh",
+        "role": "Bowler",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Josh Hazlewood",
+        "role": "Bowler",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Romario Shepherd",
+        "role": "Bowler",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Nuwan Thushara",
+        "role": "Bowler",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Yash Dayal",
+        "role": "Bowler",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    },
+    {
+        "team_id": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "name": "Lungi Ngidi",
+        "role": "Bowler",
+        "position": "",
+        "credit_score": "",
+        "strong": "",
+        "weak": "",
+        "trustable": ""
+    }
+]
