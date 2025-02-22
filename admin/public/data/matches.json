@@ -4,8 +4,8 @@
         "match_no": "match_1",
         "match_at": "22-03-25 19:30:00",
         "match_name": "Kolkata Knight Riders Vs Royal Challengers Bengaluru",
-        "team_1": "kkr",
-        "team_2": "rcb",
+        "team_1": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "team_2": "f66281c9-0fcf-477a-813a-eccd35d30313",
         "ground_id": "019519f9-1d1d-771e-af33-2452a896d763"
     },
     {
@@ -13,8 +13,8 @@
         "match_no": "match_2",
         "match_at": "23-03-25 15:30:00",
         "match_name": "Sunrisers Hyderabad Vs Rajasthan Royals",
-        "team_1": "srh",
-        "team_2": "rr",
+        "team_1": "862b47bd-2389-4e15-a027-ef62c5276df0",
+        "team_2": "3b377704-0ee4-43f2-b81b-77f63769a611",
         "ground_id": "019519f9-1d1d-7cf0-9d56-d03ecacac4a3"
     },
     {
@@ -22,8 +22,8 @@
         "match_no": "match_3",
         "match_at": "23-03-25 19:30:00",
         "match_name": "Chennai Super Kings Vs Mumbai Indians",
-        "team_1": "csk",
-        "team_2": "mi",
+        "team_1": "e5777b50-6cbe-46af-b377-020e3fd43bd9",
+        "team_2": "827ad2e4-cb28-4edd-b373-a61fdf886df4",
         "ground_id": "019519f9-1d1d-74bd-a66c-6ff6904486f3"
     },
     {
@@ -31,8 +31,8 @@
         "match_no": "match_4",
         "match_at": "24-03-25 19:30:00",
         "match_name": "Delhi Capitals Vs Lucknow Super Giants",
-        "team_1": "dc",
-        "team_2": "lsg",
+        "team_1": "c35c1b44-d569-4af5-91dc-14d55e7e72dc",
+        "team_2": "9ff5ba48-185f-4956-93e1-3fb54fd898fa",
         "ground_id": "019519f9-1d1d-77b9-b561-3ed2490823d4"
     },
     {
@@ -40,8 +40,8 @@
         "match_no": "match_5",
         "match_at": "25-03-25 19:30:00",
         "match_name": "Gujarat Titans Vs Punjab Kings",
-        "team_1": "gt",
-        "team_2": "pk",
+        "team_1": "e78635ea-56b8-4321-bd75-c0275a1c441f",
+        "team_2": "42be68a2-852c-4094-94eb-8865fd887f6c",
         "ground_id": "019519f9-1d1d-7dd8-9459-03454d66a551"
     },
     {
@@ -49,8 +49,8 @@
         "match_no": "match_6",
         "match_at": "26-03-25 19:30:00",
         "match_name": "Rajasthan Royals Vs Kolkata Knight Riders",
-        "team_1": "rr",
-        "team_2": "kkr",
+        "team_1": "3b377704-0ee4-43f2-b81b-77f63769a611",
+        "team_2": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
         "ground_id": "019519f9-1d1d-76c9-9851-ff64aaeec3d5"
     },
     {
@@ -58,8 +58,8 @@
         "match_no": "match_7",
         "match_at": "27-03-25 19:30:00",
         "match_name": "Sunrisers Hyderabad Vs Lucknow Super Giants",
-        "team_1": "srh",
-        "team_2": "lsg",
+        "team_1": "862b47bd-2389-4e15-a027-ef62c5276df0",
+        "team_2": "9ff5ba48-185f-4956-93e1-3fb54fd898fa",
         "ground_id": "019519f9-1d1d-7cf0-9d56-d03ecacac4a3"
     },
     {
@@ -67,8 +67,8 @@
         "match_no": "match_8",
         "match_at": "28-03-25 19:30:00",
         "match_name": "Chennai Super Kings Vs Royal Challengers Bengaluru",
-        "team_1": "csk",
-        "team_2": "rcb",
+        "team_1": "e5777b50-6cbe-46af-b377-020e3fd43bd9",
+        "team_2": "f66281c9-0fcf-477a-813a-eccd35d30313",
         "ground_id": "019519f9-1d1d-74bd-a66c-6ff6904486f3"
     },
     {
@@ -76,8 +76,8 @@
         "match_no": "match_9",
         "match_at": "29-03-25 19:30:00",
         "match_name": "Gujarat Titans Vs Mumbai Indians",
-        "team_1": "gt",
-        "team_2": "mi",
+        "team_1": "e78635ea-56b8-4321-bd75-c0275a1c441f",
+        "team_2": "827ad2e4-cb28-4edd-b373-a61fdf886df4",
         "ground_id": "019519f9-1d1d-7dd8-9459-03454d66a551"
     },
     {
@@ -85,8 +85,8 @@
         "match_no": "match_10",
         "match_at": "30-03-25 15:30:00",
         "match_name": "Delhi Capitals Vs Sunrisers Hyderabad",
-        "team_1": "dc",
-        "team_2": "srh",
+        "team_1": "c35c1b44-d569-4af5-91dc-14d55e7e72dc",
+        "team_2": "862b47bd-2389-4e15-a027-ef62c5276df0",
         "ground_id": "019519f9-1d1d-77b9-b561-3ed2490823d4"
     },
     {
@@ -94,8 +94,8 @@
         "match_no": "match_11",
         "match_at": "30-03-25 19:30:00",
         "match_name": "Rajasthan Royals Vs Chennai Super Kings",
-        "team_1": "rr",
-        "team_2": "csk",
+        "team_1": "3b377704-0ee4-43f2-b81b-77f63769a611",
+        "team_2": "e5777b50-6cbe-46af-b377-020e3fd43bd9",
         "ground_id": "019519f9-1d1d-76c9-9851-ff64aaeec3d5"
     },
     {
@@ -103,8 +103,8 @@
         "match_no": "match_12",
         "match_at": "31-03-25 19:30:00",
         "match_name": "Mumbai Indians Vs Kolkata Knight Riders",
-        "team_1": "mi",
-        "team_2": "kkr",
+        "team_1": "827ad2e4-cb28-4edd-b373-a61fdf886df4",
+        "team_2": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
         "ground_id": "019519f9-1d1d-7367-8864-a595f04aad3a"
     },
     {
@@ -112,8 +112,8 @@
         "match_no": "match_13",
         "match_at": "01-04-25 19:30:00",
         "match_name": "Lucknow Super Giants Vs Punjab Kings",
-        "team_1": "lsg",
-        "team_2": "pk",
+        "team_1": "9ff5ba48-185f-4956-93e1-3fb54fd898fa",
+        "team_2": "42be68a2-852c-4094-94eb-8865fd887f6c",
         "ground_id": "019519f9-1d1d-7aa3-b57b-e2b161fc6d29"
     },
     {
@@ -121,8 +121,8 @@
         "match_no": "match_14",
         "match_at": "02-04-25 19:30:00",
         "match_name": "Royal Challengers Bengaluru Vs Gujarat Titans",
-        "team_1": "rcb",
-        "team_2": "gt",
+        "team_1": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "team_2": "e78635ea-56b8-4321-bd75-c0275a1c441f",
         "ground_id": "019519f9-1d1d-7ee8-8410-a9112cdfa1e3"
     },
     {
@@ -130,8 +130,8 @@
         "match_no": "match_15",
         "match_at": "03-04-25 19:30:00",
         "match_name": "Kolkata Knight Riders Vs Sunrisers Hyderabad",
-        "team_1": "kkr",
-        "team_2": "srh",
+        "team_1": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "team_2": "862b47bd-2389-4e15-a027-ef62c5276df0",
         "ground_id": "019519f9-1d1d-771e-af33-2452a896d763"
     },
     {
@@ -139,8 +139,8 @@
         "match_no": "match_16",
         "match_at": "04-04-25 19:30:00",
         "match_name": "Lucknow Super Giants Vs Mumbai Indians",
-        "team_1": "lsg",
-        "team_2": "mi",
+        "team_1": "9ff5ba48-185f-4956-93e1-3fb54fd898fa",
+        "team_2": "827ad2e4-cb28-4edd-b373-a61fdf886df4",
         "ground_id": "019519f9-1d1d-7aa3-b57b-e2b161fc6d29"
     },
     {
@@ -148,8 +148,8 @@
         "match_no": "match_17",
         "match_at": "05-04-25 15:30:00",
         "match_name": "Chennai Super Kings Vs Delhi Capitals",
-        "team_1": "csk",
-        "team_2": "dc",
+        "team_1": "e5777b50-6cbe-46af-b377-020e3fd43bd9",
+        "team_2": "c35c1b44-d569-4af5-91dc-14d55e7e72dc",
         "ground_id": "019519f9-1d1d-74bd-a66c-6ff6904486f3"
     },
     {
@@ -157,8 +157,8 @@
         "match_no": "match_18",
         "match_at": "05-04-25 19:30:00",
         "match_name": "Punjab Kings Vs Rajasthan Royals",
-        "team_1": "pk",
-        "team_2": "rr",
+        "team_1": "42be68a2-852c-4094-94eb-8865fd887f6c",
+        "team_2": "3b377704-0ee4-43f2-b81b-77f63769a611",
         "ground_id": "019519f9-1d1d-7c1a-a00a-28a24f55c23e"
     },
     {
@@ -166,8 +166,8 @@
         "match_no": "match_19",
         "match_at": "06-04-25 15:30:00",
         "match_name": "Kolkata Knight Riders Vs Lucknow Super Giants",
-        "team_1": "kkr",
-        "team_2": "lsg",
+        "team_1": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "team_2": "9ff5ba48-185f-4956-93e1-3fb54fd898fa",
         "ground_id": "019519f9-1d1d-771e-af33-2452a896d763"
     },
     {
@@ -175,8 +175,8 @@
         "match_no": "match_20",
         "match_at": "06-04-25 19:30:00",
         "match_name": "Sunrisers Hyderabad Vs Gujarat Titans",
-        "team_1": "srh",
-        "team_2": "gt",
+        "team_1": "862b47bd-2389-4e15-a027-ef62c5276df0",
+        "team_2": "e78635ea-56b8-4321-bd75-c0275a1c441f",
         "ground_id": "019519f9-1d1d-7cf0-9d56-d03ecacac4a3"
     },
     {
@@ -184,8 +184,8 @@
         "match_no": "match_21",
         "match_at": "07-04-25 19:30:00",
         "match_name": "Mumbai Indians Vs Royal Challengers Bengaluru",
-        "team_1": "mi",
-        "team_2": "rcb",
+        "team_1": "827ad2e4-cb28-4edd-b373-a61fdf886df4",
+        "team_2": "f66281c9-0fcf-477a-813a-eccd35d30313",
         "ground_id": "019519f9-1d1d-7367-8864-a595f04aad3a"
     },
     {
@@ -193,8 +193,8 @@
         "match_no": "match_22",
         "match_at": "08-04-25 19:30:00",
         "match_name": "Punjab Kings Vs Chennai Super Kings",
-        "team_1": "pk",
-        "team_2": "csk",
+        "team_1": "42be68a2-852c-4094-94eb-8865fd887f6c",
+        "team_2": "e5777b50-6cbe-46af-b377-020e3fd43bd9",
         "ground_id": "019519f9-1d1d-7c1a-a00a-28a24f55c23e"
     },
     {
@@ -202,8 +202,8 @@
         "match_no": "match_23",
         "match_at": "09-04-25 19:30:00",
         "match_name": "Gujarat Titans Vs Rajasthan Royals",
-        "team_1": "gt",
-        "team_2": "rr",
+        "team_1": "e78635ea-56b8-4321-bd75-c0275a1c441f",
+        "team_2": "3b377704-0ee4-43f2-b81b-77f63769a611",
         "ground_id": "019519f9-1d1d-7dd8-9459-03454d66a551"
     },
     {
@@ -211,8 +211,8 @@
         "match_no": "match_24",
         "match_at": "10-04-25 19:30:00",
         "match_name": "Royal Challengers Bengaluru Vs Delhi Capitals",
-        "team_1": "rcb",
-        "team_2": "dc",
+        "team_1": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "team_2": "c35c1b44-d569-4af5-91dc-14d55e7e72dc",
         "ground_id": "019519f9-1d1d-7ee8-8410-a9112cdfa1e3"
     },
     {
@@ -220,8 +220,8 @@
         "match_no": "match_25",
         "match_at": "11-04-25 19:30:00",
         "match_name": "Chennai Super Kings Vs Kolkata Knight Riders",
-        "team_1": "csk",
-        "team_2": "kkr",
+        "team_1": "e5777b50-6cbe-46af-b377-020e3fd43bd9",
+        "team_2": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
         "ground_id": "019519f9-1d1d-74bd-a66c-6ff6904486f3"
     },
     {
@@ -229,8 +229,8 @@
         "match_no": "match_26",
         "match_at": "12-04-25 15:30:00",
         "match_name": "Lucknow Super Giants Vs Gujarat Titans",
-        "team_1": "lsg",
-        "team_2": "gt",
+        "team_1": "9ff5ba48-185f-4956-93e1-3fb54fd898fa",
+        "team_2": "e78635ea-56b8-4321-bd75-c0275a1c441f",
         "ground_id": "019519f9-1d1d-7aa3-b57b-e2b161fc6d29"
     },
     {
@@ -238,8 +238,8 @@
         "match_no": "match_27",
         "match_at": "12-04-25 19:30:00",
         "match_name": "Sunrisers Hyderabad Vs Punjab Kings",
-        "team_1": "srh",
-        "team_2": "pk",
+        "team_1": "862b47bd-2389-4e15-a027-ef62c5276df0",
+        "team_2": "42be68a2-852c-4094-94eb-8865fd887f6c",
         "ground_id": "019519f9-1d1d-7cf0-9d56-d03ecacac4a3"
     },
     {
@@ -247,8 +247,8 @@
         "match_no": "match_28",
         "match_at": "13-04-25 15:30:00",
         "match_name": "Rajasthan Royals Vs Royal Challengers Bengaluru",
-        "team_1": "rr",
-        "team_2": "rcb",
+        "team_1": "3b377704-0ee4-43f2-b81b-77f63769a611",
+        "team_2": "f66281c9-0fcf-477a-813a-eccd35d30313",
         "ground_id": "019519ff-27b8-7086-a575-7991fea17115"
     },
     {
@@ -256,8 +256,8 @@
         "match_no": "match_29",
         "match_at": "13-04-25 19:30:00",
         "match_name": "Delhi Capitals Vs Mumbai Indians",
-        "team_1": "dc",
-        "team_2": "mi",
+        "team_1": "c35c1b44-d569-4af5-91dc-14d55e7e72dc",
+        "team_2": "827ad2e4-cb28-4edd-b373-a61fdf886df4",
         "ground_id": "019519ff-27b8-7397-934d-bf37db250d10"
     },
     {
@@ -265,8 +265,8 @@
         "match_no": "match_30",
         "match_at": "14-04-25 19:30:00",
         "match_name": "Lucknow Super Giants Vs Chennai Super Kings",
-        "team_1": "lsg",
-        "team_2": "csk",
+        "team_1": "9ff5ba48-185f-4956-93e1-3fb54fd898fa",
+        "team_2": "e5777b50-6cbe-46af-b377-020e3fd43bd9",
         "ground_id": "019519f9-1d1d-7aa3-b57b-e2b161fc6d29"
     },
     {
@@ -274,8 +274,8 @@
         "match_no": "match_31",
         "match_at": "15-04-25 19:30:00",
         "match_name": "Punjab Kings Vs Kolkata Knight Riders",
-        "team_1": "pk",
-        "team_2": "kkr",
+        "team_1": "42be68a2-852c-4094-94eb-8865fd887f6c",
+        "team_2": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
         "ground_id": "019519f9-1d1d-7c1a-a00a-28a24f55c23e"
     },
     {
@@ -283,8 +283,8 @@
         "match_no": "match_32",
         "match_at": "16-04-25 19:30:00",
         "match_name": "Delhi Capitals Vs Rajasthan Royals",
-        "team_1": "dc",
-        "team_2": "rr",
+        "team_1": "c35c1b44-d569-4af5-91dc-14d55e7e72dc",
+        "team_2": "3b377704-0ee4-43f2-b81b-77f63769a611",
         "ground_id": "019519ff-27b8-7397-934d-bf37db250d10"
     },
     {
@@ -292,8 +292,8 @@
         "match_no": "match_33",
         "match_at": "17-04-25 19:30:00",
         "match_name": "Mumbai Indians Vs Sunrisers Hyderabad",
-        "team_1": "mi",
-        "team_2": "srh",
+        "team_1": "827ad2e4-cb28-4edd-b373-a61fdf886df4",
+        "team_2": "862b47bd-2389-4e15-a027-ef62c5276df0",
         "ground_id": "019519f9-1d1d-7367-8864-a595f04aad3a"
     },
     {
@@ -301,8 +301,8 @@
         "match_no": "match_34",
         "match_at": "18-04-25 19:30:00",
         "match_name": "Royal Challengers Bengaluru Vs Punjab Kings",
-        "team_1": "rcb",
-        "team_2": "pk",
+        "team_1": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "team_2": "42be68a2-852c-4094-94eb-8865fd887f6c",
         "ground_id": "019519f9-1d1d-7ee8-8410-a9112cdfa1e3"
     },
     {
@@ -310,8 +310,8 @@
         "match_no": "match_35",
         "match_at": "19-04-25 15:30:00",
         "match_name": "Gujarat Titans Vs Delhi Capitals",
-        "team_1": "gt",
-        "team_2": "dc",
+        "team_1": "e78635ea-56b8-4321-bd75-c0275a1c441f",
+        "team_2": "c35c1b44-d569-4af5-91dc-14d55e7e72dc",
         "ground_id": "019519f9-1d1d-7dd8-9459-03454d66a551"
     },
     {
@@ -319,8 +319,8 @@
         "match_no": "match_36",
         "match_at": "19-04-25 19:30:00",
         "match_name": "Rajasthan Royals Vs Lucknow Super Giants",
-        "team_1": "rr",
-        "team_2": "lsg",
+        "team_1": "3b377704-0ee4-43f2-b81b-77f63769a611",
+        "team_2": "9ff5ba48-185f-4956-93e1-3fb54fd898fa",
         "ground_id": "019519ff-27b8-7086-a575-7991fea17115"
     },
     {
@@ -328,8 +328,8 @@
         "match_no": "match_37",
         "match_at": "20-04-25 15:30:00",
         "match_name": "Punjab Kings Vs Royal Challengers Bengaluru",
-        "team_1": "pk",
-        "team_2": "rcb",
+        "team_1": "42be68a2-852c-4094-94eb-8865fd887f6c",
+        "team_2": "f66281c9-0fcf-477a-813a-eccd35d30313",
         "ground_id": "019519f9-1d1d-7c1a-a00a-28a24f55c23e"
     },
     {
@@ -337,8 +337,8 @@
         "match_no": "match_38",
         "match_at": "20-04-25 19:30:00",
         "match_name": "Mumbai Indians Vs Chennai Super Kings",
-        "team_1": "mi",
-        "team_2": "csk",
+        "team_1": "827ad2e4-cb28-4edd-b373-a61fdf886df4",
+        "team_2": "e5777b50-6cbe-46af-b377-020e3fd43bd9",
         "ground_id": "019519f9-1d1d-7367-8864-a595f04aad3a"
     },
     {
@@ -346,8 +346,8 @@
         "match_no": "match_39",
         "match_at": "21-04-25 19:30:00",
         "match_name": "Kolkata Knight Riders Vs Gujarat Titans",
-        "team_1": "kkr",
-        "team_2": "gt",
+        "team_1": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "team_2": "e78635ea-56b8-4321-bd75-c0275a1c441f",
         "ground_id": "019519f9-1d1d-771e-af33-2452a896d763"
     },
     {
@@ -355,8 +355,8 @@
         "match_no": "match_40",
         "match_at": "22-04-25 19:30:00",
         "match_name": "Lucknow Super Giants Vs Delhi Capitals",
-        "team_1": "lsg",
-        "team_2": "dc",
+        "team_1": "9ff5ba48-185f-4956-93e1-3fb54fd898fa",
+        "team_2": "c35c1b44-d569-4af5-91dc-14d55e7e72dc",
         "ground_id": "019519f9-1d1d-7aa3-b57b-e2b161fc6d29"
     },
     {
@@ -364,8 +364,8 @@
         "match_no": "match_41",
         "match_at": "23-04-25 19:30:00",
         "match_name": "Sunrisers Hyderabad Vs Mumbai Indians",
-        "team_1": "srh",
-        "team_2": "mi",
+        "team_1": "862b47bd-2389-4e15-a027-ef62c5276df0",
+        "team_2": "827ad2e4-cb28-4edd-b373-a61fdf886df4",
         "ground_id": "019519f9-1d1d-7cf0-9d56-d03ecacac4a3"
     },
     {
@@ -373,8 +373,8 @@
         "match_no": "match_42",
         "match_at": "24-04-25 19:30:00",
         "match_name": "Royal Challengers Bengaluru Vs Rajasthan Royals",
-        "team_1": "rcb",
-        "team_2": "rr",
+        "team_1": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "team_2": "3b377704-0ee4-43f2-b81b-77f63769a611",
         "ground_id": "019519f9-1d1d-7ee8-8410-a9112cdfa1e3"
     },
     {
@@ -382,8 +382,8 @@
         "match_no": "match_43",
         "match_at": "25-04-25 19:30:00",
         "match_name": "Chennai Super Kings Vs Sunrisers Hyderabad",
-        "team_1": "csk",
-        "team_2": "srh",
+        "team_1": "e5777b50-6cbe-46af-b377-020e3fd43bd9",
+        "team_2": "862b47bd-2389-4e15-a027-ef62c5276df0",
         "ground_id": "019519f9-1d1d-74bd-a66c-6ff6904486f3"
     },
     {
@@ -391,8 +391,8 @@
         "match_no": "match_44",
         "match_at": "26-04-25 19:30:00",
         "match_name": "Kolkata Knight Riders Vs Punjab Kings",
-        "team_1": "kkr",
-        "team_2": "pk",
+        "team_1": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "team_2": "42be68a2-852c-4094-94eb-8865fd887f6c",
         "ground_id": "019519f9-1d1d-771e-af33-2452a896d763"
     },
     {
@@ -400,8 +400,8 @@
         "match_no": "match_45",
         "match_at": "27-04-25 15:30:00",
         "match_name": "Mumbai Indians Vs Lucknow Super Giants",
-        "team_1": "mi",
-        "team_2": "lsg",
+        "team_1": "827ad2e4-cb28-4edd-b373-a61fdf886df4",
+        "team_2": "9ff5ba48-185f-4956-93e1-3fb54fd898fa",
         "ground_id": "019519f9-1d1d-7367-8864-a595f04aad3a"
     },
     {
@@ -409,8 +409,8 @@
         "match_no": "match_46",
         "match_at": "27-04-25 19:30:00",
         "match_name": "Delhi Capitals Vs Royal Challengers Bengaluru",
-        "team_1": "dc",
-        "team_2": "rcb",
+        "team_1": "c35c1b44-d569-4af5-91dc-14d55e7e72dc",
+        "team_2": "f66281c9-0fcf-477a-813a-eccd35d30313",
         "ground_id": "019519ff-27b8-7397-934d-bf37db250d10"
     },
     {
@@ -418,8 +418,8 @@
         "match_no": "match_47",
         "match_at": "28-04-25 19:30:00",
         "match_name": "Rajasthan Royals Vs Gujarat Titans",
-        "team_1": "rr",
-        "team_2": "gt",
+        "team_1": "3b377704-0ee4-43f2-b81b-77f63769a611",
+        "team_2": "e78635ea-56b8-4321-bd75-c0275a1c441f",
         "ground_id": "019519ff-27b8-7086-a575-7991fea17115"
     },
     {
@@ -427,8 +427,8 @@
         "match_no": "match_48",
         "match_at": "29-04-25 19:30:00",
         "match_name": "Delhi Capitals Vs Kolkata Knight Riders",
-        "team_1": "dc",
-        "team_2": "kkr",
+        "team_1": "c35c1b44-d569-4af5-91dc-14d55e7e72dc",
+        "team_2": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
         "ground_id": "019519ff-27b8-7397-934d-bf37db250d10"
     },
     {
@@ -436,8 +436,8 @@
         "match_no": "match_49",
         "match_at": "30-04-25 19:30:00",
         "match_name": "Chennai Super Kings Vs Punjab Kings",
-        "team_1": "csk",
-        "team_2": "pk",
+        "team_1": "e5777b50-6cbe-46af-b377-020e3fd43bd9",
+        "team_2": "42be68a2-852c-4094-94eb-8865fd887f6c",
         "ground_id": "019519f9-1d1d-74bd-a66c-6ff6904486f3"
     },
     {
@@ -445,8 +445,8 @@
         "match_no": "match_50",
         "match_at": "01-05-25 19:30:00",
         "match_name": "Rajasthan Royals Vs Mumbai Indians",
-        "team_1": "rr",
-        "team_2": "mi",
+        "team_1": "3b377704-0ee4-43f2-b81b-77f63769a611",
+        "team_2": "827ad2e4-cb28-4edd-b373-a61fdf886df4",
         "ground_id": "019519ff-27b8-7086-a575-7991fea17115"
     },
     {
@@ -454,8 +454,8 @@
         "match_no": "match_51",
         "match_at": "02-05-25 19:30:00",
         "match_name": "Gujarat Titans Vs Sunrisers Hyderabad",
-        "team_1": "gt",
-        "team_2": "srh",
+        "team_1": "e78635ea-56b8-4321-bd75-c0275a1c441f",
+        "team_2": "862b47bd-2389-4e15-a027-ef62c5276df0",
         "ground_id": "019519f9-1d1d-7dd8-9459-03454d66a551"
     },
     {
@@ -463,8 +463,8 @@
         "match_no": "match_52",
         "match_at": "03-05-25 19:30:00",
         "match_name": "Royal Challengers Bengaluru Vs Chennai Super Kings",
-        "team_1": "rcb",
-        "team_2": "csk",
+        "team_1": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "team_2": "e5777b50-6cbe-46af-b377-020e3fd43bd9",
         "ground_id": "019519f9-1d1d-7ee8-8410-a9112cdfa1e3"
     },
     {
@@ -472,8 +472,8 @@
         "match_no": "match_53",
         "match_at": "04-05-25 15:30:00",
         "match_name": "Kolkata Knight Riders Vs Rajasthan Royals",
-        "team_1": "kkr",
-        "team_2": "rr",
+        "team_1": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "team_2": "3b377704-0ee4-43f2-b81b-77f63769a611",
         "ground_id": "019519f9-1d1d-771e-af33-2452a896d763"
     },
     {
@@ -481,8 +481,8 @@
         "match_no": "match_54",
         "match_at": "04-05-25 19:30:00",
         "match_name": "Punjab Kings Vs Lucknow Super Giants",
-        "team_1": "pk",
-        "team_2": "lsg",
+        "team_1": "42be68a2-852c-4094-94eb-8865fd887f6c",
+        "team_2": "9ff5ba48-185f-4956-93e1-3fb54fd898fa",
         "ground_id": "019519ff-27b8-73b0-9311-b639610fe6ba"
     },
     {
@@ -490,8 +490,8 @@
         "match_no": "match_55",
         "match_at": "05-05-25 19:30:00",
         "match_name": "Sunrisers Hyderabad Vs Delhi Capitals",
-        "team_1": "srh",
-        "team_2": "dc",
+        "team_1": "862b47bd-2389-4e15-a027-ef62c5276df0",
+        "team_2": "c35c1b44-d569-4af5-91dc-14d55e7e72dc",
         "ground_id": "019519f9-1d1d-7cf0-9d56-d03ecacac4a3"
     },
     {
@@ -499,8 +499,8 @@
         "match_no": "match_56",
         "match_at": "06-05-25 19:30:00",
         "match_name": "Mumbai Indians Vs Gujarat Titans",
-        "team_1": "mi",
-        "team_2": "gt",
+        "team_1": "827ad2e4-cb28-4edd-b373-a61fdf886df4",
+        "team_2": "e78635ea-56b8-4321-bd75-c0275a1c441f",
         "ground_id": "019519f9-1d1d-7367-8864-a595f04aad3a"
     },
     {
@@ -508,8 +508,8 @@
         "match_no": "match_57",
         "match_at": "07-05-25 19:30:00",
         "match_name": "Kolkata Knight Riders Vs Chennai Super Kings",
-        "team_1": "kkr",
-        "team_2": "csk",
+        "team_1": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
+        "team_2": "e5777b50-6cbe-46af-b377-020e3fd43bd9",
         "ground_id": "019519f9-1d1d-771e-af33-2452a896d763"
     },
     {
@@ -517,8 +517,8 @@
         "match_no": "match_58",
         "match_at": "08-05-25 19:30:00",
         "match_name": "Punjab Kings Vs Delhi Capitals",
-        "team_1": "pk",
-        "team_2": "dc",
+        "team_1": "42be68a2-852c-4094-94eb-8865fd887f6c",
+        "team_2": "c35c1b44-d569-4af5-91dc-14d55e7e72dc",
         "ground_id": "019519ff-27b8-73b0-9311-b639610fe6ba"
     },
     {
@@ -526,8 +526,8 @@
         "match_no": "match_59",
         "match_at": "09-05-25 19:30:00",
         "match_name": "Lucknow Super Giants Vs Royal Challengers Bengaluru",
-        "team_1": "lsg",
-        "team_2": "rcb",
+        "team_1": "9ff5ba48-185f-4956-93e1-3fb54fd898fa",
+        "team_2": "f66281c9-0fcf-477a-813a-eccd35d30313",
         "ground_id": "019519f9-1d1d-7aa3-b57b-e2b161fc6d29"
     },
     {
@@ -535,8 +535,8 @@
         "match_no": "match_60",
         "match_at": "10-05-25 19:30:00",
         "match_name": "Sunrisers Hyderabad Vs Kolkata Knight Riders",
-        "team_1": "srh",
-        "team_2": "kkr",
+        "team_1": "862b47bd-2389-4e15-a027-ef62c5276df0",
+        "team_2": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
         "ground_id": "019519f9-1d1d-7cf0-9d56-d03ecacac4a3"
     },
     {
@@ -544,8 +544,8 @@
         "match_no": "match_61",
         "match_at": "11-05-25 15:30:00",
         "match_name": "Punjab Kings Vs Mumbai Indians",
-        "team_1": "pk",
-        "team_2": "mi",
+        "team_1": "42be68a2-852c-4094-94eb-8865fd887f6c",
+        "team_2": "827ad2e4-cb28-4edd-b373-a61fdf886df4",
         "ground_id": "019519ff-27b8-73b0-9311-b639610fe6ba"
     },
     {
@@ -553,8 +553,8 @@
         "match_no": "match_62",
         "match_at": "11-05-25 19:30:00",
         "match_name": "Delhi Capitals Vs Gujarat Titans",
-        "team_1": "dc",
-        "team_2": "gt",
+        "team_1": "c35c1b44-d569-4af5-91dc-14d55e7e72dc",
+        "team_2": "e78635ea-56b8-4321-bd75-c0275a1c441f",
         "ground_id": "019519ff-27b8-7397-934d-bf37db250d10"
     },
     {
@@ -562,8 +562,8 @@
         "match_no": "match_63",
         "match_at": "12-05-25 19:30:00",
         "match_name": "Chennai Super Kings Vs Rajasthan Royals",
-        "team_1": "csk",
-        "team_2": "rr",
+        "team_1": "e5777b50-6cbe-46af-b377-020e3fd43bd9",
+        "team_2": "3b377704-0ee4-43f2-b81b-77f63769a611",
         "ground_id": "019519f9-1d1d-74bd-a66c-6ff6904486f3"
     },
     {
@@ -571,8 +571,8 @@
         "match_no": "match_64",
         "match_at": "13-05-25 19:30:00",
         "match_name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad",
-        "team_1": "rcb",
-        "team_2": "srh",
+        "team_1": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "team_2": "862b47bd-2389-4e15-a027-ef62c5276df0",
         "ground_id": "019519f9-1d1d-7ee8-8410-a9112cdfa1e3"
     },
     {
@@ -580,8 +580,8 @@
         "match_no": "match_65",
         "match_at": "14-05-25 19:30:00",
         "match_name": "Gujarat Titans Vs Lucknow Super Giants",
-        "team_1": "gt",
-        "team_2": "lsg",
+        "team_1": "e78635ea-56b8-4321-bd75-c0275a1c441f",
+        "team_2": "9ff5ba48-185f-4956-93e1-3fb54fd898fa",
         "ground_id": "019519f9-1d1d-7dd8-9459-03454d66a551"
     },
     {
@@ -589,8 +589,8 @@
         "match_no": "match_66",
         "match_at": "15-05-25 19:30:00",
         "match_name": "Mumbai Indians Vs Delhi Capitals",
-        "team_1": "mi",
-        "team_2": "dc",
+        "team_1": "827ad2e4-cb28-4edd-b373-a61fdf886df4",
+        "team_2": "c35c1b44-d569-4af5-91dc-14d55e7e72dc",
         "ground_id": "019519f9-1d1d-7367-8864-a595f04aad3a"
     },
     {
@@ -598,8 +598,8 @@
         "match_no": "match_67",
         "match_at": "16-05-25 19:30:00",
         "match_name": "Rajasthan Royals Vs Punjab Kings",
-        "team_1": "rr",
-        "team_2": "pk",
+        "team_1": "3b377704-0ee4-43f2-b81b-77f63769a611",
+        "team_2": "42be68a2-852c-4094-94eb-8865fd887f6c",
         "ground_id": "019519ff-27b8-7086-a575-7991fea17115"
     },
     {
@@ -607,8 +607,8 @@
         "match_no": "match_68",
         "match_at": "17-05-25 19:30:00",
         "match_name": "Royal Challengers Bengaluru Vs Kolkata Knight Riders",
-        "team_1": "rcb",
-        "team_2": "kkr",
+        "team_1": "f66281c9-0fcf-477a-813a-eccd35d30313",
+        "team_2": "e70c6246-0be6-4acc-bbe9-85cce266e6c5",
         "ground_id": "019519f9-1d1d-7ee8-8410-a9112cdfa1e3"
     },
     {
@@ -616,8 +616,8 @@
         "match_no": "match_69",
         "match_at": "18-05-25 15:30:00",
         "match_name": "Gujarat Titans Vs Chennai Super Kings",
-        "team_1": "gt",
-        "team_2": "csk",
+        "team_1": "e78635ea-56b8-4321-bd75-c0275a1c441f",
+        "team_2": "e5777b50-6cbe-46af-b377-020e3fd43bd9",
         "ground_id": "019519f9-1d1d-7dd8-9459-03454d66a551"
     },
     {
@@ -625,8 +625,8 @@
         "match_no": "match_70",
         "match_at": "18-05-25 19:30:00",
         "match_name": "Lucknow Super Giants Vs Sunrisers Hyderabad",
-        "team_1": "lsg",
-        "team_2": "srh",
+        "team_1": "9ff5ba48-185f-4956-93e1-3fb54fd898fa",
+        "team_2": "862b47bd-2389-4e15-a027-ef62c5276df0",
         "ground_id": "019519f9-1d1d-7aa3-b57b-e2b161fc6d29"
     }
 ]
