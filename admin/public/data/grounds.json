@@ -21,7 +21,7 @@
         "avg_second_ing_score": "160",
         "avg_second_ing_wickets": "5",
         "ground_support_for": "bat",
-        "bowling_support_for": "medium"
+        "bowling_support_for": "fast"
     },
     {
         "ground_id": "019519f9-1d1d-74bd-a66c-6ff6904486f3",
@@ -32,7 +32,7 @@
         "avg_first_ing_wickets": "7",
         "avg_second_ing_score": "140",
         "avg_second_ing_wickets": "9",
-        "ground_support_for": "bowl",
+        "ground_support_for": "ball",
         "bowling_support_for": "spin"
     },
     {
@@ -57,7 +57,7 @@
         "avg_second_ing_score": "170",
         "avg_second_ing_wickets": "4",
         "ground_support_for": "bat",
-        "bowling_support_for": "medium"
+        "bowling_support_for": "fast"
     },
     {
         "ground_id": "019519f9-1d1d-76c9-9851-ff64aaeec3d5",
@@ -68,7 +68,7 @@
         "avg_first_ing_wickets": "8",
         "avg_second_ing_score": "130",
         "avg_second_ing_wickets": "10",
-        "ground_support_for": "bowl",
+        "ground_support_for": "ball",
         "bowling_support_for": "spin"
     },
     {
@@ -93,7 +93,7 @@
         "avg_second_ing_score": "160",
         "avg_second_ing_wickets": "6",
         "ground_support_for": "bat",
-        "bowling_support_for": "medium"
+        "bowling_support_for": "fast"
     },
     {
         "ground_id": "019519f9-1d1d-7ee8-8410-a9112cdfa1e3",
@@ -116,8 +116,8 @@
         "avg_first_ing_wickets": "4",
         "avg_second_ing_score": "160",
         "avg_second_ing_wickets": "6",
-        "ground_support_for": "bowl",
-        "bowling_support_for": "medium"
+        "ground_support_for": "ball",
+        "bowling_support_for": "fast"
     },
     {
         "ground_id": "019519ff-27b8-7086-a575-7991fea17115",
@@ -141,7 +141,7 @@
         "avg_second_ing_score": "170",
         "avg_second_ing_wickets": "5",
         "ground_support_for": "bat",
-        "bowling_support_for": "medium"
+        "bowling_support_for": "fast"
     },
     {
         "ground_id": "019519ff-27b8-73b0-9311-b639610fe6ba",
@@ -152,7 +152,7 @@
         "avg_first_ing_wickets": "7",
         "avg_second_ing_score": "150",
         "avg_second_ing_wickets": "9",
-        "ground_support_for": "bowl",
+        "ground_support_for": "ball",
         "bowling_support_for": "spin"
     }
 ]
