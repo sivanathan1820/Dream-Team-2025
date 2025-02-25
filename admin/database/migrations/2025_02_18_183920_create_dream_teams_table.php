@@ -13,6 +13,13 @@ return new class extends Migration
     {
         Schema::create('dream_teams', function (Blueprint $table) {
             $table->id();
+            $table->string("match_no")->nullable();
+            $table->string("dream_id")->nullable();
+            $table->string("players")->nullable();
+            $table->string("captain_id")->nullable();
+            $table->string("vice_captain_id")->nullable();
+            $table->string("total_credit")->nullable();
+            $table->string("team_position")->nullable();
             $table->timestamps();
         });
     }

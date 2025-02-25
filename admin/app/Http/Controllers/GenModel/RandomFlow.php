@@ -3,11 +3,13 @@
 namespace App\Http\Controllers\GenModel;
 
 use App\Http\Controllers\Controller;
+use App\Models\DreamTeams;
 use App\Models\Ground;
 use App\Models\Matches;
 use App\Models\Player;
 use App\Models\Team;
 use Illuminate\Http\Request;
+use Illuminate\Support\Str;  // For UUID generation
 
 class RandomFlow extends Controller
 {
@@ -37,44 +39,22 @@ class RandomFlow extends Controller
         if ($matchDetails->team_1 && $matchDetails->team_2) {
             // For Team 1
             $wicketKeepers = Player::where('role', 'Wicket Keeper')->where('team_id', $matchDetails->team_1)->get();
-            if ($wicketKeepers->isEmpty()) {
-                return response()->json(['error' => 'No Wicket Keeper found for Team 1.'], 404);
-            }
-
             $batters = Player::where('role', 'Batter')->where('team_id', $matchDetails->team_1)->get();
-            if ($batters->isEmpty()) {
-                return response()->json(['error' => 'No Batters found for Team 1.'], 404);
-            }
-
             $allrounders = Player::where('role', 'All Rounder')->where('team_id', $matchDetails->team_1)->get();
-            if ($allrounders->isEmpty()) {
-                return response()->json(['error' => 'No Allrounders found for Team 1.'], 404);
-            }
-
             $bowlers = Player::where('role', 'Bowler')->where('team_id', $matchDetails->team_1)->get();
-            if ($bowlers->isEmpty()) {
-                return response()->json(['error' => 'No Bowlers found for Team 1.'], 404);
+
+            if ($wicketKeepers->isEmpty() || $batters->isEmpty() || $allrounders->isEmpty() || $bowlers->isEmpty()) {
+                return response()->json(['error' => 'Missing players for Team 1.'], 404);
             }
 
             // For Team 2
             $team2WicketKeepers = Player::where('role', 'Wicket Keeper')->where('team_id', $matchDetails->team_2)->get();
-            if ($team2WicketKeepers->isEmpty()) {
-                return response()->json(['error' => 'No Wicket Keeper found for Team 2.'], 404);
-            }
-
             $team2Batters = Player::where('role', 'Batter')->where('team_id', $matchDetails->team_2)->get();
-            if ($team2Batters->isEmpty()) {
-                return response()->json(['error' => 'No Batters found for Team 2.'], 404);
-            }
-
             $team2Allrounders = Player::where('role', 'All Rounder')->where('team_id', $matchDetails->team_2)->get();
-            if ($team2Allrounders->isEmpty()) {
-                return response()->json(['error' => 'No Allrounders found for Team 2.'], 404);
-            }
-
             $team2Bowlers = Player::where('role', 'Bowler')->where('team_id', $matchDetails->team_2)->get();
-            if ($team2Bowlers->isEmpty()) {
-                return response()->json(['error' => 'No Bowlers found for Team 2.'], 404);
+
+            if ($team2WicketKeepers->isEmpty() || $team2Batters->isEmpty() || $team2Allrounders->isEmpty() || $team2Bowlers->isEmpty()) {
+                return response()->json(['error' => 'Missing players for Team 2.'], 404);
             }
         } else {
             return response()->json(['error' => 'Both Team 1 and Team 2 must be assigned.'], 404);
@@ -139,7 +119,7 @@ class RandomFlow extends Controller
             "allrounders" => $allrounders,
             "bowlers" => $bowlers,
         ];
-        
+
         // Config settings
         $expectedTeams = config("constant.expectedTeams.RandomFlow");
         $maxCreditScore = config("constant.maxCreditScore");
@@ -151,7 +131,7 @@ class RandomFlow extends Controller
 
         $generatedTeamsCount = 0;
         $generatedTeams = [];
-        
+
         while ($generatedTeamsCount < $expectedTeams) {
             $selectedPlayers = [
                 "wicketKeepers" => [],
@@ -159,10 +139,14 @@ class RandomFlow extends Controller
                 "allrounders" => [],
                 "bowlers" => []
             ];
+            $selectedId = [];
+            $selectedCredit = 0;
+            $captain_id = 0;
+            $vice_captain_id = 0;
 
             // Select players for the team
             while (array_sum(array_map('count', $selectedPlayers)) < $playersPerTeam) {
-                $randomIndex = rand(0, 3);
+                $randomIndex = random_int(0, count($positionDetails) - 1);
                 $positionKeys = array_keys($positionDetails);
                 $selectedPosition = $positionKeys[$randomIndex];
                 $availablePlayers = $positionDetails[$selectedPosition];
@@ -171,24 +155,42 @@ class RandomFlow extends Controller
                 $limit = ${$selectedPosition . "_limit"};
 
                 if (count($selectedPlayers[$selectedPosition]) < $limit) {
-                    $randomPlayerIndex = rand(0, count($availablePlayers) - 1);
+                    $randomPlayerIndex = random_int(0, count($availablePlayers) - 1);
                     $pickedPlayer = $availablePlayers[$randomPlayerIndex];
 
                     // Avoid duplicate players in the team
-                    if (!in_array($pickedPlayer, array_merge(...array_values($selectedPlayers)))) {
+                    if (!in_array($pickedPlayer, array_merge(...array_values($selectedPlayers))) && ($selectedCredit + (int) $pickedPlayer['credit_score']) <= $maxCreditScore) {
                         $selectedPlayers[$selectedPosition][] = $pickedPlayer;
+                        $selectedCredit += (int) $pickedPlayer['credit_score'];
+                        $selectedId[] = $pickedPlayer['id'];
                     }
                 }
             }
 
-            // Add the generated team to the list
-            $generatedTeams[] = $selectedPlayers;
-            $generatedTeamsCount++;
+            $captain_id = $selectedId[array_rand($selectedId)];
+            $refId = $selectedId;
+            unset($refId[array_search($captain_id, $refId)]);
+            $vice_captain_id = $refId[array_rand($refId)];
+
+            $isExist = DreamTeams::whereIn('players', $selectedId)
+                ->where('captain_id', $captain_id)
+                ->where('vice_captain_id', $vice_captain_id)
+                ->count();
+            $selectedId = implode(',', $selectedId);
+            if ($isExist == 0) {
+                DreamTeams::create([
+                    'match_no' => $details['match']->match_no,
+                    'dream_id' => Str::uuid(),
+                    'players' => $selectedId,
+                    'captain_id' => $captain_id,
+                    'vice_captain_id' => $vice_captain_id,
+                    'total_credit' => $selectedCredit,
+                ]);
+                $generatedTeams[] = $selectedPlayers;
+                $generatedTeamsCount++;
+            }
         }
 
-        // Return the generated teams as JSON response
         return response()->json($generatedTeams);
     }
-
-
 }
