@@ -4,3 +4,38 @@ Flow Types
 2. Ground-Based Bat and Ball
 3. Ground-Based Innings for Both Bat and Ball
 4. Player Stats-Based
+
+6,14,24,7,18,4,21,8,11,20,22
+
+SELECT
+    players,
+    id,
+    -- Count the number of matched IDs
+    COUNT(*) AS matched_count,
+    -- List the matched IDs
+    GROUP_CONCAT(player_id ORDER BY player_id) AS matched_ids
+FROM (
+    SELECT
+        dt.players,
+    	dt.id,
+        id.player_id
+    FROM
+        dream_teams dt
+    CROSS JOIN (SELECT 6 AS player_id UNION ALL
+                SELECT 14 UNION ALL
+                SELECT 24 UNION ALL
+                SELECT 7 UNION ALL
+                SELECT 18 UNION ALL
+                SELECT 4 UNION ALL
+                SELECT 21 UNION ALL
+                SELECT 8 UNION ALL
+                SELECT 11 UNION ALL
+                SELECT 20 UNION ALL
+                SELECT 22) AS id
+    WHERE
+        FIND_IN_SET(id.player_id, dt.players) > 0
+) AS matched_players
+GROUP BY
+    players
+ORDER BY
+    matched_count DESC;

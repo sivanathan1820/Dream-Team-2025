@@ -2,7 +2,7 @@
 
 return [
     'expectedTeams' => [
-        "RandomFlow" => 10
+        "RandomFlow" => 120
     ],
     'playersPerTeam' => 11,
     'maxCreditScore' => 100,
