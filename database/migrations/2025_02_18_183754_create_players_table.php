@@ -13,13 +13,15 @@ return new class extends Migration {
         Schema::create('players', function (Blueprint $table) {
             $table->id();
             $table->string('team_id');
-            $table->string('name');
-            $table->string('role');
-            $table->string('position');
+            $table->string('name')->nullable();
+            $table->string('role')->nullable();
+            $table->string('position')->nullable();
             $table->string('credit_score')->nullable();
-            $table->string('strong');
-            $table->string('weak');
-            $table->enum('trustable', ['yes', 'no'])->default('no');
+            $table->string('strong')->nullable();
+            $table->string('weak')->nullable();
+            $table->unsignedTinyInteger('rate')->default(3)->comment('Rating from 1 to 4');
+            $table->string('is_captain')->default('no');
+            $table->string('is_vice_captain')->default('no');
             $table->timestamps();
         });
     }

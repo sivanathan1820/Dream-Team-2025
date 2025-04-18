@@ -5,7 +5,6 @@ Flow Types
 3. Ground-Based Innings for Both Bat and Ball
 4. Player Stats-Based
 
-6,14,24,7,18,4,21,8,11,20,22
 
 SELECT
     players,
@@ -21,17 +20,17 @@ FROM (
         id.player_id
     FROM
         dream_teams dt
-    CROSS JOIN (SELECT 6 AS player_id UNION ALL
+    CROSS JOIN (SELECT 1 AS player_id UNION ALL
+                SELECT 13 UNION ALL
                 SELECT 14 UNION ALL
                 SELECT 24 UNION ALL
-                SELECT 7 UNION ALL
-                SELECT 18 UNION ALL
+                SELECT 5 UNION ALL
                 SELECT 4 UNION ALL
                 SELECT 21 UNION ALL
-                SELECT 8 UNION ALL
-                SELECT 11 UNION ALL
+                SELECT 23 UNION ALL
                 SELECT 20 UNION ALL
-                SELECT 22) AS id
+                SELECT 19 UNION ALL
+                SELECT 11) AS id
     WHERE
         FIND_IN_SET(id.player_id, dt.players) > 0
 ) AS matched_players

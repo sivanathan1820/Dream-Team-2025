@@ -85,7 +85,9 @@ class DatabaseSeeder extends Seeder
                 "credit_score" => $value["credit_score"],
                 "strong" => $value["strong"],
                 "weak" => $value["weak"],
-                "trustable" => $value["trustable"],
+                "rate" => $value["rate"],
+                "is_captain" => $value["is_captain"],
+                "is_vice_captain" => $value["is_vice_captain"],
             ]);
         }
 
